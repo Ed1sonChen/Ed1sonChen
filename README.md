@@ -1,4 +1,4 @@
-**Hello there!** This is the Github page of Zhiling Chen.
+**Hello there👋** This is the Github page of Zhiling Chen.
 
 - 📖 Pursuing PhD in ME at University of Connecticut.
 - 🎓 Conducting research on **Edge Computing**, **Federated Learning**.
