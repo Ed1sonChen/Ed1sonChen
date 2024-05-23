@@ -1,7 +1,7 @@
 **Hello there👋** This is the Github page of Zhiling Chen.
 
 - 📖 Pursuing PhD in ME at University of Connecticut.
-- 🎓 Conducting research on **Edge Computing**, **Federated Learning**.
+- 🎓 Conducting research on **Edge Computing**, **Distributed Learning**, **Task Specified AI**.
 - 💡 Have a wide interest on applications of **NLP**, **CV**, **RL**, ...
 - 👀 Open to collaborating on new projects.
 - 💬 Visit my [homepage](https://ed1sonchen.github.io//) for more information.
