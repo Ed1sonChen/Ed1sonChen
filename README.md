@@ -5,6 +5,9 @@
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Ed1sonChen)](https://github.com/Ed1sonChen) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ed1son/)](https://www.linkedin.com/in/ed1son/)
+[![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=YourGoogleScholarID)](https://scholar.google.com/citations?user=YourGoogleScholarID)
+[![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white&link=https://www.researchgate.net/profile/Zhiling-Chen-4)](https://www.researchgate.net/profile/Zhiling-Chen-4)
+
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a **PhD Student🎓 [@ University of Connecticut](https://www.uconn.edu/)** majoring in Mechanical Engineering. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
