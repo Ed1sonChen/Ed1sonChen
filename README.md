@@ -5,7 +5,7 @@
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Ed1sonChen)](https://github.com/Ed1sonChen) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ed1son/)](https://www.linkedin.com/in/ed1son/)
-[![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=YourGoogleScholarID)](https://scholar.google.com/citations?user=YourGoogleScholarID)
+[![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?view_op=list_works&hl=en&user=LgIf0rUAAAAJ&gmla=ALUCkoW_p2oKxoUZq7J9bLMkQpMaUa0W7iTI1qXh1Jk3hU6fdxO0pTOUyuPV9YUxVrWYu2eimgxmdONo66cqeX63F8rRjkFDp0_alAgiAy-o9A)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=LgIf0rUAAAAJ&gmla=ALUCkoW_p2oKxoUZq7J9bLMkQpMaUa0W7iTI1qXh1Jk3hU6fdxO0pTOUyuPV9YUxVrWYu2eimgxmdONo66cqeX63F8rRjkFDp0_alAgiAy-o9A)
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white&link=https://www.researchgate.net/profile/Zhiling-Chen-4)](https://www.researchgate.net/profile/Zhiling-Chen-4)
 
 
