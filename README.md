@@ -19,6 +19,7 @@ I'm a **PhD Student🎓 [@ University of Connecticut](https://www.uconn.edu/)** 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Distributed Learning
   - 🖼 Vision Language Model
+  - 💎 MLLM
   - 🤖 Robotics
 
 
