@@ -17,10 +17,10 @@ I'm a **PhD Student🎓 [@ University of Connecticut](https://www.uconn.edu/)** 
 
 - 🔭 I’m currently working as a Researcher Assistant at **[@ Intelligent Systems and Control Laboratory (ISCL)](https://imani.lab.uconn.edu/)**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Distributed Learning
   - 🖼 Vision Language Model
-  - 💎 MLLM
   - 🤖 Robotics
+  - 💎 MLLM
+  - 📊 Distributed Learning
 
 
 ### 💬 Visit my [homepage](https://ed1sonchen.github.io//) for more information.
